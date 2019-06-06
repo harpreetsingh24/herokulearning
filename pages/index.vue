@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-     <h2>this is my app</h2>
+     <h2>this is my app harpreet</h2>
     </div>
   </section>
 </template>
